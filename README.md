@@ -39,7 +39,5 @@
    ```bash
    git clone https://github.com/yourusername/savorly.git
    cd savorly
-2.install dependencies
-  npm install
 
 
