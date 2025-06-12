@@ -37,7 +37,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/savorly.git
+   git clone https://github.com/ashishroyx/savorly.git
    cd savorly
 
 
